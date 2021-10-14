@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    //display the cases
+    //display the choices
     printf("enter the choice:");
     int choice=0;
     scanf("%d",&choice);
